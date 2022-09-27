@@ -43,7 +43,7 @@
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
 ///////////
-
+///(21 / 1)
 // Console.Clear();
 // Console.WriteLine("Task21");
 // Console.WriteLine("Insert X1");
@@ -69,6 +69,19 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.Clear();
-Console.WriteLine("Task23");
-int num =
+// Console.Clear();
+// Console.WriteLine("Task23");
+// Console.WriteLine("Insert Number");
+
+// int num = Convert.ToInt32(Console.ReadLine());
+
+// for(int i = 1; i < num +1  ; i++)
+//     {
+//         double cub = Math.Pow(i,3);
+//         if(i==1)
+//             {
+//                 Console.Write($"->"); 
+//             }
+//         else
+//         Console.Write($"{cub},"); 
+//     }
